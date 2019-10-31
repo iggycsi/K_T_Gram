@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://J:/">
+      <sourceFolder url="file://$MODULE_DIR$/app" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" packagePrefix="Tests\" />
+      <excludeFolder url="file://J:/vendor/beyondcode/laravel-dump-server" />
+      <excludeFolder url="file://J:/vendor/composer" />
+      <excludeFolder url="file://J:/vendor/dnoegel/php-xdg-base-dir" />
+      <excludeFolder url="file://J:/vendor/doctrine/inflector" />
+      <excludeFolder url="file://J:/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://J:/vendor/doctrine/lexer" />
+      <excludeFolder url="file://J:/vendor/dragonmantank/cron-expression" />
+      <excludeFolder url="file://J:/vendor/egulias/email-validator" />
+      <excludeFolder url="file://J:/vendor/erusev/parsedown" />
+      <excludeFolder url="file://J:/vendor/fideloper/proxy" />
+      <excludeFolder url="file://J:/vendor/filp/whoops" />
+      <excludeFolder url="file://J:/vendor/fzaninotto/faker" />
+      <excludeFolder url="file://J:/vendor/hamcrest/hamcrest-php" />
+      <excludeFolder url="file://J:/vendor/jakub-onderka/php-console-color" />
+      <excludeFolder url="file://J:/vendor/jakub-onderka/php-console-highlighter" />
+      <excludeFolder url="file://J:/vendor/laravel/framework" />
+      <excludeFolder url="file://J:/vendor/laravel/tinker" />
+      <excludeFolder url="file://J:/vendor/league/flysystem" />
+      <excludeFolder url="file://J:/vendor/mockery/mockery" />
+      <excludeFolder url="file://J:/vendor/monolog/monolog" />
+      <excludeFolder url="file://J:/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://J:/vendor/nesbot/carbon" />
+      <excludeFolder url="file://J:/vendor/nikic/php-parser" />
+      <excludeFolder url="file://J:/vendor/nunomaduro/collision" />
+      <excludeFolder url="file://J:/vendor/opis/closure" />
+      <excludeFolder url="file://J:/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://J:/vendor/phar-io/manifest" />
+      <excludeFolder url="file://J:/vendor/phar-io/version" />
+      <excludeFolder url="file://J:/vendor/phpdocumentor/reflection-common" />
+      <excludeFolder url="file://J:/vendor/phpdocumentor/reflection-docblock" />
+      <excludeFolder url="file://J:/vendor/phpdocumentor/type-resolver" />
+      <excludeFolder url="file://J:/vendor/phpoption/phpoption" />
+      <excludeFolder url="file://J:/vendor/phpspec/prophecy" />
+      <excludeFolder url="file://J:/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://J:/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://J:/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://J:/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://J:/vendor/phpunit/php-token-stream" />
+      <excludeFolder url="file://J:/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://J:/vendor/psr/container" />
+      <excludeFolder url="file://J:/vendor/psr/log" />
+      <excludeFolder url="file://J:/vendor/psr/simple-cache" />
+      <excludeFolder url="file://J:/vendor/psy/psysh" />
+      <excludeFolder url="file://J:/vendor/ramsey/uuid" />
+      <excludeFolder url="file://J:/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://J:/vendor/sebastian/comparator" />
+      <excludeFolder url="file://J:/vendor/sebastian/diff" />
+      <excludeFolder url="file://J:/vendor/sebastian/environment" />
+      <excludeFolder url="file://J:/vendor/sebastian/exporter" />
+      <excludeFolder url="file://J:/vendor/sebastian/global-state" />
+      <excludeFolder url="file://J:/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://J:/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://J:/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://J:/vendor/sebastian/resource-operations" />
+      <excludeFolder url="file://J:/vendor/sebastian/version" />
+      <excludeFolder url="file://J:/vendor/swiftmailer/swiftmailer" />
+      <excludeFolder url="file://J:/vendor/symfony/console" />
+      <excludeFolder url="file://J:/vendor/symfony/css-selector" />
+      <excludeFolder url="file://J:/vendor/symfony/debug" />
+      <excludeFolder url="file://J:/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://J:/vendor/symfony/event-dispatcher-contracts" />
+      <excludeFolder url="file://J:/vendor/symfony/finder" />
+      <excludeFolder url="file://J:/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://J:/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://J:/vendor/symfony/mime" />
+      <excludeFolder url="file://J:/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://J:/vendor/symfony/polyfill-iconv" />
+      <excludeFolder url="file://J:/vendor/symfony/polyfill-intl-idn" />
+      <excludeFolder url="file://J:/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://J:/vendor/symfony/polyfill-php72" />
+      <excludeFolder url="file://J:/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://J:/vendor/symfony/process" />
+      <excludeFolder url="file://J:/vendor/symfony/routing" />
+      <excludeFolder url="file://J:/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://J:/vendor/symfony/translation" />
+      <excludeFolder url="file://J:/vendor/symfony/translation-contracts" />
+      <excludeFolder url="file://J:/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://J:/vendor/theseer/tokenizer" />
+      <excludeFolder url="file://J:/vendor/tijsverkoyen/css-to-inline-styles" />
+      <excludeFolder url="file://J:/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://J:/vendor/webmozart/assert" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
